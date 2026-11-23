@@ -1,10 +1,10 @@
 <p align="right"><img src="https://komarev.com/ghpvc/?username=habin-dev&label=Profile%20views&color=0e75b6&style=flat-square"/></p>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0B3D2E,50:1E8449,100:6DB33F&fontColor=ffffff&height=180&text=Welcome%20to%20Habin%27s%20GitHub&fontSize=40&fontAlignY=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B3D2E,50:1E8449,100:6DB33F&fontColor=ffffff&height=180&text=Welcome%20to%20Habin%27s%20GitHub&fontSize=40&fontAlignY=50&animation=fadeIn" width="100%"/>
 
 <br/>
 
-## 👋 Hi There
+# 👋 Hi There
 
 <a href="https://github.com/habin-dev"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="mailto:habin.jang.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
@@ -18,7 +18,7 @@ I'm interested in JWT authentication, JPA-based domain design, and layered archi
 
 <br/>
 
-## ✨ Tech Stacks
+# ✨ Tech Stacks
 
 ### Used as the main
 
@@ -28,7 +28,6 @@ I'm interested in JWT authentication, JPA-based domain design, and layered archi
 
 <br/>
 
-
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:6DB33F,50:1E8449,100:0B3D2E&fontColor=ffffff&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6DB33F,50:1E8449,100:0B3D2E&fontColor=ffffff&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontAlignY=50" width="100%"/>
